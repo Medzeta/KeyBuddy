@@ -1,0 +1,2 @@
+# KeyBuddy
+KeyBuddy - Säker Nyckelhantering
